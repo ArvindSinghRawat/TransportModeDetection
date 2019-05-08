@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with BasicAirData GPS Logger for Android - ver. 2.1.12 -->
+<!-- Track 15 = 4 TrackPoints + 0 Placemarks -->
+<gpx version="1.0"
+     creator="BasicAirData GPS Logger 2.1.12"
+     xmlns="http://www.topografix.com/GPX/1/0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<name>GPS Logger 20190325-082412</name>
+<time>2019-03-25T02:54:15Z</time>
+
+<trk>
+ <name>Track 20190325-082412</name>
+ <trkseg>
+  <trkpt lat="30.31022245" lon="78.09320606"><ele>620.000</ele><time>2019-03-25T02:54:12Z</time><speed>0.000</speed><sat>20</sat></trkpt>
+  <trkpt lat="30.31022414" lon="78.09322033"><ele>624.000</ele><time>2019-03-25T02:54:13Z</time><speed>0.000</speed><sat>20</sat></trkpt>
+  <trkpt lat="30.31024634" lon="78.09315328"><ele>628.000</ele><time>2019-03-25T02:54:14Z</time><speed>3.310</speed><sat>20</sat></trkpt>
+  <trkpt lat="30.31025360" lon="78.09308668"><ele>628.000</ele><time>2019-03-25T02:54:15Z</time><speed>3.690</speed><sat>21</sat></trkpt>
+ </trkseg>
+</trk>
+
+</gpx>
